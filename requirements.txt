@@ -1,0 +1,19 @@
+asgiref==3.6.0
+certifi==2022.12.7
+charset-normalizer==3.0.1
+chatGPT @ git+https://github.com/mmabrouk/chatgpt-wrapper@f2d1101cb2f0e1b57fa9fef647a0eef04fea7e5c
+Django==4.1.6
+django-extensions==3.2.1
+django-grappelli==3.0.4
+greenlet==2.0.1
+idna==3.4
+markdown-it-py==2.1.0
+mdurl==0.1.2
+playwright==1.30.0
+pyee==9.0.4
+Pygments==2.14.0
+requests==2.28.2
+rich==13.3.1
+sqlparse==0.4.3
+typing_extensions==4.4.0
+urllib3==1.26.14

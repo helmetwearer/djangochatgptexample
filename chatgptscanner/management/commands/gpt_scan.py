@@ -11,7 +11,7 @@ class Command(BaseCommand):
     verbose_on = False
 
     def add_arguments(self, parser):
-    	parser.add_argument('channel', nargs='?', default='mcbanterface', type=str)
+    	parser.add_argument('channel', nargs='?', default='nl_kripp', type=str)
     	parser.add_argument('--verbose', action='store_true', help="print debug info to console")
 
     def verbose_write(self, outputstring):
